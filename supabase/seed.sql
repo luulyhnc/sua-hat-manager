@@ -1,0 +1,3 @@
+-- Chạy sau schema.sql (khi đã có user Auth); thay UUID bằng auth.users.id.
+-- insert into profiles(id,full_name,role) values ('USER_UUID','Linh Trần','owner');
+-- insert into materials(name,supplier,unit,created_by) values ('Hạt điều vỡ','Nông sản Việt','kg','USER_UUID');
