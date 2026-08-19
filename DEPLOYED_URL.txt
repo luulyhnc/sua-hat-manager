@@ -1,0 +1,9 @@
+SỮA HẠT MANAGER
+
+Mở ứng dụng:
+https://luulyhnc.github.io/sua-hat-manager/
+
+Mã nguồn:
+https://github.com/luulyhnc/sua-hat-manager
+
+Dữ liệu được lưu trên Supabase và đồng bộ sau khi đăng nhập cùng tài khoản trên các máy.
